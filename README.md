@@ -1,10 +1,10 @@
 # Flappy Bird Neural Network Model
 
-This project is based on [that](https://github.com/CodingTrain/Flappy-Bird-Clone).
+This project is based on [that](https://thecodingtrain.com/challenges/100-neuroevolution-flappy-bird).
 
-## Available Scripts
+## Improvments and Modifications
 
-In the project directory, you can run:
+Bird model, predict dynamics are modified. Input size of neural network is reduced and optimized. New generations of birds' distribution is also modified.
 
 ## Setup
 
