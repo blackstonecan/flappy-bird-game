@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Flappy Bird Neural Network Model
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is based on [that](https://github.com/CodingTrain/Flappy-Bird-Clone).
 
 ## Available Scripts
 
